@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body, html {
+  height: 100vh;
+  width: 100vw;
+}
+
+
+th {
+    text-align: left;
+}
+
+td {
+    width: 200px;
+    height: 20px;
+   
+}
+
+.s {
+    padding-left: 30px;
+}
+
+.simg {
+    height: 300px;  
+    
+}
